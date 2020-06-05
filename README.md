@@ -1,4 +1,4 @@
-## Leaning song embeddings with Doc2Vec
+## Learning song embeddings with Doc2Vec
 
 The code in this repository was used to learn embeddings for songs using their lyrics.
 Training data consists of 193 songs by the following artists:
